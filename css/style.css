@@ -913,9 +913,10 @@ footer {
     transition: .3s ease;
     overflow: hidden;
     position: relative;
+    border-radius: 1rem;
 }
 
-.grid-item-2 {
+/* .grid-item-2 {
     grid-column: span 2;
 }
 
@@ -929,7 +930,7 @@ footer {
 
 .grid-item-8 {
     grid-column: span 3;
-}
+} */
 
 .img-container {
     width: 100%;
