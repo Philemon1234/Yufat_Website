@@ -286,6 +286,7 @@ header {
     height: 3rem;
     margin: 0 3.5rem 0 1.5rem;
     cursor: pointer;
+    z-index: -10!important;
 }
 
 .about_dark {
