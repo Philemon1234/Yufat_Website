@@ -174,7 +174,7 @@ header {
     border-bottom: 2px solid var(--primary-color);
     position: absolute;
     width: 100%;
-    z-index: 15;
+    z-index: 15!important;
     background-color: var(--color-white);
 
 }
@@ -222,6 +222,10 @@ header {
     color: var(--color-orange);
     cursor: pointer;
     display: none;
+}
+
+#close {
+    color: var(--color-white)!important;
 }
 
 .nav_links.show_nav {
